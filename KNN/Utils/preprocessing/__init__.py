@@ -1,0 +1,1 @@
+from .simpleimageresizer import SimpleImageResizer
